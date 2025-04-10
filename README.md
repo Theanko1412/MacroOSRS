@@ -2,7 +2,7 @@
 Advanced Macro Recorder with randomnes, delays and conditions
 
 # Introduction
-Macro recorder and editor primarly made for Old School Runescape (OSRS). I **DO NOT** offer any support or warranties for the use of this software. Use at your own risk. This software is not affiliated with Jagex or Old School Runescape in any way. This software is intended for educational purposes only and should not be used to gain an unfair advantage in any game.
+Macro recorder and editor primarly made for Old School Runescape (OSRS). I **DO NOT** offer any support or warranties for the use of this software. Use at your own risk. This software is not affiliated with Jagex or Old School Runescape in any way. This software is intended for **educational purposes only** and should not be used to gain an unfair advantage in any game.
 
 I made some effort to make this software as safe as possible to use with randomizing each action. However, I cannot guarantee that this software will not be detected by Jagex or any other game. Use at your own risk.
 
@@ -14,6 +14,8 @@ I made some effort to make this software as safe as possible to use with randomi
 - Command for only mouse movement (no clicks)
 - Saving and loading macros in JSON format
 - Looping macros
+- Recommending using RuneLite with menu entry plugin for better experience
+- Recommending always having compas locked and zoomed all the way in or out, so the coordinates are the same every time you load the macro. This is not required, but it will make your life easier.
 
 # Randomness
 ## Right click -> Modify Time Distribution
