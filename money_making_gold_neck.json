@@ -1,0 +1,237 @@
+[
+   {
+      "type": "click",
+      "button": "Button.left",
+      "pos": [
+         1297,
+         378
+      ],
+      "delay": 1.4923374652862549,
+      "dist": "poisson",
+      "min": 1.0,
+      "max": 3.0,
+      "click_dist": "poisson",
+      "area": {
+         "top_left": [
+            1287,
+            369
+         ],
+         "bottom_right": [
+            1301,
+            394
+         ],
+         "center": [
+            1294.0,
+            381.5
+         ]
+      },
+      "name": "furnace"
+   },
+   {
+      "type": "click",
+      "button": "Button.left",
+      "pos": [
+         970,
+         1209
+      ],
+      "delay": 6.0070881843566895,
+      "dist": "poisson",
+      "min": 6.0,
+      "max": 8.0,
+      "click_dist": "poisson",
+      "area": {
+         "top_left": [
+            886,
+            1119
+         ],
+         "bottom_right": [
+            1031,
+            1265
+         ],
+         "center": [
+            958.5,
+            1192.0
+         ]
+      },
+      "name": "gold bar"
+   },
+   {
+      "type": "click",
+      "button": "Button.left",
+      "pos": [
+         899,
+         493
+      ],
+      "delay": 40.52165770530701,
+      "dist": "poisson",
+      "min": 40.0,
+      "max": 42.0,
+      "click_dist": "poisson",
+      "area": {
+         "top_left": [
+            895,
+            483
+         ],
+         "bottom_right": [
+            909,
+            502
+         ],
+         "center": [
+            902.0,
+            492.5
+         ]
+      },
+      "name": "furnace"
+   },
+   {
+      "type": "click",
+      "button": "Button.left",
+      "pos": [
+         716,
+         475
+      ],
+      "delay": 1.5639588832855225,
+      "dist": "poisson",
+      "min": 1.5,
+      "max": 2.5,
+      "click_dist": "poisson",
+      "area": {
+         "top_left": [
+            684,
+            451
+         ],
+         "bottom_right": [
+            752,
+            506
+         ],
+         "center": [
+            718.0,
+            478.5
+         ]
+      },
+      "name": "necklace"
+   },
+   {
+      "type": "click",
+      "button": "Button.left",
+      "pos": [
+         122,
+         706
+      ],
+      "delay": 23.531959772109985,
+      "dist": "poisson",
+      "min": 23.5,
+      "max": 25.5,
+      "click_dist": "poisson",
+      "area": {
+         "top_left": [
+            98,
+            698
+         ],
+         "bottom_right": [
+            140,
+            715
+         ],
+         "center": [
+            119.0,
+            706.5
+         ]
+      },
+      "name": "bank"
+   },
+   {
+      "type": "click",
+      "button": "Button.left",
+      "pos": [
+         2053,
+         650
+      ],
+      "delay": 5.39324688911438,
+      "dist": "poisson",
+      "min": 5.4,
+      "max": 6.2,
+      "click_dist": "poisson",
+      "area": {
+         "top_left": [
+            2024,
+            630
+         ],
+         "bottom_right": [
+            2074,
+            678
+         ],
+         "center": [
+            2049.0,
+            654.0
+         ]
+      },
+      "name": "deposit"
+   },
+   {
+      "type": "click",
+      "button": "Button.left",
+      "pos": [
+         649,
+         699
+      ],
+      "delay": 1.0064177513122559,
+      "dist": "poisson",
+      "min": 1.0,
+      "max": 1.8,
+      "click_dist": "poisson",
+      "area": {
+         "top_left": [
+            575,
+            663
+         ],
+         "bottom_right": [
+            634,
+            723
+         ],
+         "center": [
+            604.5,
+            693.0
+         ]
+      },
+      "name": "witdraw"
+   },
+   {
+      "type": "click",
+      "button": "Button.left",
+      "pos": [
+         764,
+         702
+      ],
+      "delay": 0.7050004005432129,
+      "dist": "poisson",
+      "min": 1.0,
+      "max": 1.9,
+      "click_dist": "poisson",
+      "area": {
+         "top_left": [
+            739,
+            663
+         ],
+         "bottom_right": [
+            794,
+            716
+         ],
+         "center": [
+            766.5,
+            689.5
+         ]
+      },
+      "name": "withdraw"
+   },
+   {
+      "type": "key",
+      "key": "Key.esc",
+      "delay": 1.8274915218353271,
+      "dist": "poisson",
+      "min": 1.5,
+      "max": 2.0,
+      "click_dist": "fixed",
+      "area": null,
+      "name": "exit menu"
+   }
+]

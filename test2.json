@@ -1,0 +1,14 @@
+[
+   {
+      "type": "condition",
+      "pos": [
+         304,
+         478
+      ],
+      "color": "#2080d8",
+      "match": true,
+      "delay": 0.5,
+      "timeout": 60,
+      "name": "Pixel Condition @ 304,478"
+   }
+]
